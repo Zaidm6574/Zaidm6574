@@ -1,9 +1,9 @@
 # Zaid Martinez
 
-Product engineer at **[H-Town Systems](https://zaidmartinez.vercel.app)** — I scope, build, deploy, and support software for small businesses, then publish bounded reliability labs that strangers can rerun.
+Associate FDE / product engineer at **[H-Town Systems](https://zaidmartinez.vercel.app)** — I scope, build, deploy, and support software for small businesses, then publish bounded reliability labs that strangers can rerun.
 
 ### Live systems I built and operate
-- [aluminum-outfitters.com](https://aluminum-outfitters.com) — e-commerce storefront with live checkout for a Texas manufacturer
+- [aluminum-outfitters.com](https://aluminum-outfitters.com) — headless Shopify storefront with a cart-to-hosted-checkout handoff for a Texas manufacturer
 - [3brosautodetail.com](https://3brosautodetail.com) — booking platform + QR vehicle-profile system on Google Cloud Run
 - [newcaneywheelsandtires.com](https://newcaneywheelsandtires.com) — bilingual service-discovery and marketing site for a tire shop
 
